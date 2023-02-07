@@ -1,1 +1,10 @@
-# homework-epam-l1
+Please find the links to the homework assignments below:
+--------------------------------------------------------
+
+[Linux_Bash_Homework](/Linux+Bash/readme.md)
+
+[Database_Administration_Homework](/Database_Administration/readme.md)
+
+[Networks_using_Linux](/Networks_using_Linux/readme.md)
+
+[Virtualization_and_Cloud_Basic_(AWS)](/Virtualization_and_Cloud_Basic_(AWS)/readme.md)
